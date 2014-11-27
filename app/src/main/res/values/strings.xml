@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Editor de texto plano</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="errorAlAbrir">Se ha producido un error al abrir el archivo</string>
+    <string name="errorAlMostrar">Se ha producido un error al mostrar el texto</string>
+    <string name="tituloDialogo">¿Confirmar guardado?</string>
+    <string name="infoDialogo">Se sobreescibirá el fichero .txt</string>
+    <string name="errorGuardar">Se ha producido un error al guardar</string>
+    <string name="alert">dialogo</string>
+    <string name="boton">Guardar</string>
+
+</resources>
